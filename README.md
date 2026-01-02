@@ -1,6 +1,6 @@
 # 🎓 Student Exam Performance Prediction
 
-This project is part of a **learning-based project from a Udemy Data Science / Machine Learning bootcamp**.  
+This project is part of a **learning-based project from a Udemy [Complete Data Science, Machine Learning, DL, NLP Bootcamp](https://www.udemy.com/certificate/UC-14b8d5ed-d5a1-4bb7-95c6-1788c0df30b9/)**.  
 The objective of this project is to **analyze factors affecting student exam performance**, build a **regression model to predict math scores**, and understand the **end-to-end machine learning workflow**, including analysis, model training, modular pipeline development, and deployment.
 
 > ⚠️ This project is **not a final capstone project**, but a guided project completed as part of a structured learning process.
